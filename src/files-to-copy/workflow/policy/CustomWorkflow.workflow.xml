@@ -1,0 +1,9 @@
+
+<cas:workflow xmlns:cas="http://oodt.jpl.nasa.gov/1.0/cas"
+  name="CustomWorkflow"
+  id="urn:oodt:CustomWorkflow">
+ 
+  <tasks>
+    <task id="urn:oodt:CustomPoster"/>
+  </tasks>
+</cas:workflow>

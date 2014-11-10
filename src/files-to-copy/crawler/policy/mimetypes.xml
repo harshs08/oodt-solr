@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info>
+  <mime-type type="product/json">
+    <glob pattern="*.json"/>
+  </mime-type>
+</mime-info>
+

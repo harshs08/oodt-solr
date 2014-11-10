@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <input>
+    <group name="SubstringOffsetGroup">
+      <vector name="CustomInputFileName">
+        <element>1</element>
+        <element>33</element>      
+      </vector>
+   </group>
+    
+    <group name="CommonMetadata">
+        <scalar name="DataVersion">1.0</scalar>
+        <scalar name="CollectionName">Custom product</scalar>
+        <scalar name="DataProvider">OODT-PGE</scalar>
+        <scalar name="ProductType">CustomProductType</scalar>
+    </group>
+    
+</input>

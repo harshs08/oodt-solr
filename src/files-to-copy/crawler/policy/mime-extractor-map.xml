@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cas:mimetypemap xmlns:cas="http://oodt.jpl.nassa.gov/1.0/cas" magic="true or false" mimeRepo="mimetypes.xml">
+    <mime type="product/json">
+        <extractor class="org.apache.oodt.cas.metadata.extractors.TikaCmdLineMetExtractor">
+            <config file="tikaextractor.config"/>
+            <preCondComparators>
+                <preCondComparator id="CheckThatDataFileSizeIsGreaterThanZero"/>
+            </preCondComparators>
+        </extractor>
+    </mime>
+</cas:mimetypemap>
