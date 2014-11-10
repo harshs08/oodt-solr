@@ -4,7 +4,7 @@ The installation, configuration and execution of this project is divided in 5 ba
 2. Configuring Solr.
 3. Installing and configuring oodt and custom-workflow which ingests the input json files and sends to solr for indexing.
 4. Running the launch.py to post the data to solr using oodt workflow manager and crawler.
-4. Compiling and executing the queries App to get the answers to the assignment questions.
+5. Compiling and executing the queries App to get the answers to the assignment questions.
 
 
 1a. Steps for Installing and Configuring tika-parser:
